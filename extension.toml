@@ -1,0 +1,7 @@
+id = "atom-one-light-theme"
+name = "Atom One Light Theme"
+version = "0.1.0"
+schema_version = 1
+authors = ["Alexey Vlasov <sketchrhc@yandex.ru>", "Mahmoud Ali <muddibr@gmail.com>"]
+description = "Atom One Light theme ported from the VS Code theme by akamud."
+repository = "https://github.com/skns/onelight-zed"
