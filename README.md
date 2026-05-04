@@ -2,7 +2,6 @@
 
 Atom One Light Theme is a Zed port of the VS Code theme by [akamud](https://github.com/akamud/vscode-theme-onelight), based on Atom's One Light colors.
 
-![Preview](screenshots/preview.png)
 
 ## Install Locally
 
